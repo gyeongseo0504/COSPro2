@@ -1,0 +1,21 @@
+﻿  main.cpp
+D:\202315023_HongKyeongSeo\COS PRO 2급 기출문제 - C언어 4차\20231215_1\20231215_1\main.cpp(25,26): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+D:\202315023_HongKyeongSeo\COS PRO 2급 기출문제 - C언어 4차\20231215_1\20231215_1\main.cpp(25,26): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+D:\202315023_HongKyeongSeo\COS PRO 2급 기출문제 - C언어 4차\20231215_1\20231215_1\main.cpp(25,31): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+D:\202315023_HongKyeongSeo\COS PRO 2급 기출문제 - C언어 4차\20231215_1\20231215_1\main.cpp(25,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+D:\202315023_HongKyeongSeo\COS PRO 2급 기출문제 - C언어 4차\20231215_1\20231215_1\main.cpp(25,36): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+D:\202315023_HongKyeongSeo\COS PRO 2급 기출문제 - C언어 4차\20231215_1\20231215_1\main.cpp(25,36): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+D:\202315023_HongKyeongSeo\COS PRO 2급 기출문제 - C언어 4차\20231215_1\20231215_1\main.cpp(25,41): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+D:\202315023_HongKyeongSeo\COS PRO 2급 기출문제 - C언어 4차\20231215_1\20231215_1\main.cpp(25,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+D:\202315023_HongKyeongSeo\COS PRO 2급 기출문제 - C언어 4차\20231215_1\20231215_1\main.cpp(25,46): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+D:\202315023_HongKyeongSeo\COS PRO 2급 기출문제 - C언어 4차\20231215_1\20231215_1\main.cpp(25,46): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+D:\202315023_HongKyeongSeo\COS PRO 2급 기출문제 - C언어 4차\20231215_1\20231215_1\main.cpp(25,51): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+D:\202315023_HongKyeongSeo\COS PRO 2급 기출문제 - C언어 4차\20231215_1\20231215_1\main.cpp(25,51): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+D:\202315023_HongKyeongSeo\COS PRO 2급 기출문제 - C언어 4차\20231215_1\20231215_1\main.cpp(25,56): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+D:\202315023_HongKyeongSeo\COS PRO 2급 기출문제 - C언어 4차\20231215_1\20231215_1\main.cpp(25,56): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+D:\202315023_HongKyeongSeo\COS PRO 2급 기출문제 - C언어 4차\20231215_1\20231215_1\main.cpp(25,61): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+D:\202315023_HongKyeongSeo\COS PRO 2급 기출문제 - C언어 4차\20231215_1\20231215_1\main.cpp(25,61): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+D:\202315023_HongKyeongSeo\COS PRO 2급 기출문제 - C언어 4차\20231215_1\20231215_1\main.cpp(25,66): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+D:\202315023_HongKyeongSeo\COS PRO 2급 기출문제 - C언어 4차\20231215_1\20231215_1\main.cpp(25,66): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+D:\202315023_HongKyeongSeo\COS PRO 2급 기출문제 - C언어 4차\20231215_1\20231215_1\main.cpp(25,71): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+D:\202315023_HongKyeongSeo\COS PRO 2급 기출문제 - C언어 4차\20231215_1\20231215_1\main.cpp(25,71): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
